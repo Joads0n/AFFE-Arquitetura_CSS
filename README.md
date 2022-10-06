@@ -6,7 +6,7 @@ Projeto feito no curso do [Alura](https://www.alura.com.br/) na formação de Fr
 
 ## 🧪 Preview do Projeto
 
-<video align="center" src="" style="max-width: 730px;">
+<video align="center" src="https://user-images.githubusercontent.com/38007646/194192303-3d0202da-f240-46f0-bd8d-47a1063827b2.mp4" style="max-width: 730px;">
 </video>
   
 ## 🚀 Tecnologias
